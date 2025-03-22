@@ -1,4 +1,4 @@
-```
+'''
 CALS301_M3_03c "Transitional Opportunities for the Transportation Sector"
 
 PURPOSE/CONTEXT: Analyzes transportation sector's unique challenges in transitioning to low-carbon future, comparing historical transformations (like London's manure crisis) to current CO2 challenges to demonstrate potential for transformative change.
@@ -26,7 +26,7 @@ Transportation sector emissions breakdown
 EV/hydrogen technology diagrams
 Integrated transit system model
 Two-way grid interaction visualization
-```
+'''
 import matplotlib.pyplot as plt
 
 # Data for emissions by source

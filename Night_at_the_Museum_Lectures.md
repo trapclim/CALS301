@@ -1,0 +1,73 @@
+# The Pale Blue Dot
+## Why teach climate change
+"All right. Thank you, Rob, for that lovely introduction. I am Professor Toby Ault. I am a climate scientist at Cornell University, and this is exciting. This is the first of its kind - a Night at the Museum focused on climate and energy for teachers, students, educators, and I guess learners of all ages. And since we're streaming this and it's going on YouTube, people of the future.
+
+Let's get started with your thoughts on the question here: Why should we teach young students about climate change in our public schools? And I think this can apply to universities as well. Why should we have climate change education? Why are we doing this Climate Change Education Institute for teachers?
+
+We'll make a word cloud from your responses as you submit them. I see emissions, adaptation... sustainability seems to be the dominant one. Responsibility, fear, hope, healthy planet, jobs, renewables, future, farmers.
+
+All right. These are all valid reasons to teach students about climate change, especially here in upstate New York. But I would say there's something even more fundamental that I think is important about teaching climate change, and I liken it to the efforts of people who lived centuries before us who built cathedrals and castles. The reason is because those endeavors - building a cathedral in Western Europe, building a castle - was a multi-generational process, and climate change is a multi-generational challenge.
+
+What we teach young people today, what we teach our students now matters not only because they're going to experience climate change, they're going to have to contend with climate change. They're going to have opportunities, jobs, as something you said in making the transition towards renewables. They're also going to have to educate the next generation, and the next generation is going to have to educate the generation after that on what it means to have a stable climate system.
+
+How do we produce enough energy to meet the world's needs without creating a climate that is uninhabitable for many humans who are alive today or will be alive in the future? That's why I think it's important. It's because it's our time. I'm applying, I think, to the Gandalf principle here: We don't choose the time we live in. We choose what we do with the time that's given to us. We live in a time where climate change is a major obstacle to humanity and to civilization as we know it. It's also a major opportunity. We didn't choose that. But what we choose to do about it - learn about it, research it, become a climate scientist, educate young people - that's what's important to do, and it's not going away.
+
+Climate change is just going to keep persistently making each summer a little bit hotter than the last one. Each new heat wave is gonna break records every couple of summers. Winters are going to be warmer. Fires are going to be more significant. Flooding, hurricanes, sea level rise - everything you've heard about is probably going to continue to unfold at an accelerating pace.
+
+I saw fear on that list of words that you submitted. I do think that there's reason to be afraid. I do think it can be scary and daunting to think about the scale of climate change that's happening now, and the scale of changes that we need to make to our entire global civilization to combat it. I think fear is a valid response to that. But I also think that we have erred over the last 20 or 30 years in our public communication and our climate change education in dwelling too much on fear and not enough on hope and joy, and the opportunities for really improving the quality of life for billions of people by moving towards a different global system of producing energy that doesn't have the byproduct of increasing carbon dioxide levels.
+
+I would also say that acting out of fear - this is a philosophical point, I admit, and a bit of a tangent - but acting out of fear opens the gateway to us making choices and rushing into solutions that are not well thought through, and are not necessarily moral or ethical actions. And so, as much as I can relate to and empathize with that feeling of fear about climate change, I invite all of you to find a reason to teach and to think and to work on climate change that's different from fear. I also think it's longer lasting if you find some other drive or some other motivator to tackle the problem of climate change besides fear.
+
+## Understanding Energy
+
+Now, you can do this on your note cards, so just hold them up, and I'll look around the room at what people say: What is energy? What is it we're talking about when we talk about energy? It's the picture I took a few years ago from the Columbia River. It's the Dalles dam in Oregon, right between Oregon and Washington. You can see Mount Hood in the background there.
+
+What is energy? What are we talking about when we talk about energy? Yes, it can be used to do work, cannot be created or destroyed. It's everywhere and everything. Yeah, I like that one. Are you Stephanie? Yeah. I had a student who once told me, "Energy is everything. Energy is life, man." And I agree. That's a good way of putting it.
+
+Energy - and we are energy. Literally, we are energy. If you were to walk into a nuclear furnace - I don't advise that you do that - but if you were to walk into a nuclear furnace and convert the mass in your body into energy, you could do it. It would be plausible, given what we know about physics based on Einstein's formula, E equals MC squared. Energy is produced when you convert mass times the speed of light squared.
+
+## Common Forms of Energy
+
+Common forms of energy that you're probably familiar with - kinetic, that's movement. So as I move around this room, that's kinetic energy. Radiant energy - that's what the sun is emitting. Sunlight is a form of radiant energy, electromagnetic radiation more broadly. So radio waves, infrared radiation, those are all types of radiant energy. X-rays - yes, Kevin? X-rays, yes.
+
+Then there's this idea of potential energy. So imagine that I take an apple - do a little thought experiment. We're gonna do a lot of thought experiments today, so get your thought experiments ready. Take an apple, lift it off the floor - I don't know why it was on the floor in the first place - lift the apple off the floor. And now the force of gravity is acting on that apple, and if I release it, it's going to convert the potential energy from having been lifted off the floor into kinetic energy as it falls into movement.
+
+Chemical energy - that's bonds between molecules, between atoms. And if I eat the apple, probably after washing it off, and start digesting it, then I'm taking the sugar, the glucose in the apple, and I'm converting it into glycogen in my body. Then I can use that glycogen to move around. I can convert the chemical energy into kinetic energy, or I can use it to stay warm. Thermal energy - that's what we're talking about when we're thinking about the vibration of molecules or atoms in ordinary matter. So then gas or solids, liquids, plasma - that's thermal energy.
+
+## A Cosmic Thought Experiment
+
+Another thought experiment here. Now I want you to close your eyes. Imagine you're not from Earth. You're not even from this solar system. You are traveling from a different star system hundreds of thousands of light years away. And you're looking for life in the galaxy. And you're passing by our solar system, and you notice that the third planet from this star - our sun, third planet from our Sun - has a little bit of a pale, bluish glow to it.
+
+And with the instruments on board your spacecraft, you're able to determine that glow, that reflection of sunlight - a little bit bluish - is from liquid water. And not only that, you're able to detect the amount of sunlight that's being reflected from the planet. You're able to see how much sunlight is reaching the planet, and you start to do some calculations. And you realize that given how much sunlight is reaching that third planet from the star, given how much it's reflecting, the surface should be completely frozen over. It doesn't have enough energy. Its energy balance is not sufficient to support liquid water.
+
+And yet there it is. So maybe you turn to one of your colleagues, and you explain your observations, and they say, "Well, it has greenhouse gases in the atmosphere."
+
+So why is that? Why must it have greenhouse gases in the atmosphere? Well, the role of greenhouse gases is to trap heat. So by having greenhouse gases in the atmosphere, what's happening is that sunlight's reaching the surface of the planet, heating it up. And when it's heated up, the energy leaves the planet in the form of long wave radiation - infrared radiation - and greenhouse gases absorb that infrared radiation, slow it down, and that warms the atmosphere and keeps those oceans mostly liquid.
+
+You have a clue that there must be greenhouse gases on that planet. Without greenhouse gases on that planet, there wouldn't be liquid oceans.
+
+## Understanding Planetary Climate
+
+Now let's shift gears a tiny bit. Talk about planetary climate. What is planetary climate? What comes to mind when you think about planetary climate?
+
+Yeah, based on what you said, planetary climate is determined by the balance of energy coming into the whole climate system and leaving it. That's planetary climate.
+
+## Local Climate vs. Planetary Climate
+
+So now, what is local climate? What are we talking about when we think about local climate?
+
+"Climate is what you expect, weather's what you get." Yes, that's a classic. It's a classic one. Did Sam? Yeah, it's a classic - climate is what you expect, weather is what you get.
+
+I think of climate and weather like this. I want you to again do a thought experiment. Imagine that you have elderly parents or grandparents at Kendal, which is the retirement community in Ithaca, just about 2 miles north of Cornell's campus. You've got some grandparents living at Kendal, and they brought their dog with them into retirement. Dog has clung on to life for longer than expected - it's a 12-year-old dog. It's doing great, it's a very healthy, happy dog. Your grandparents are having a hard time giving the dog the exercise that it needs. So you go over 4 or 5 times a week, maybe during your lunch break in the afternoon, to help your grandparents.
+
+And you take the dog for a walk. Now, Kendal Apartments or Kendal retirement community in Ithaca has this nice, almost circular path around the entire property. It's about a mile and a half, let's say. So you walk that mile and a half path at a pretty steady pace, following the sidewalks, the whole perimeter of Kendal.
+
+Well, the dog, of course, doesn't follow that same steady path. The dog is zigzagging and wiggling all over the place, going back and forth, going side to side, sniffing a bush over there, tries to chase a squirrel.
+
+So you can think about this relationship between your path, which is smooth and pretty much the same every day that you go over there - you take the same route every time - you can think of that as like climate, whereas the path of the dog, that's more like weather. Weather is what happens. This is what Sam said - "Weather's what you get, climate's what you expect." So climate is an expectation for a given location during a given season.
+
+We base our ideas about climate off of average weather conditions, but it's really an expectation of what's normal, what we should see during a given part of the year at a given location. So, of course, the climate of Tucson, Arizona is very different than the climate of Ithaca, New York. So what you would expect on January 1st in Tucson is not the same as what you'd expect in Ithaca, or on Ontario, or in Costa Rica. You name it - what you expect at any given part of the year, any given site, that's climate. That's local climate, which is different from planetary climate which is really just the energy balance of incoming solar radiation and outgoing long wave radiation.
+
+## The Connection Between Climate and Energy
+
+Now, we've already introduced some of the ideas that we need to answer this question, but let's think about what are the connections between climate and energy. Obviously, the way that we're making energy today is causing climate change. We're producing energy for electricity using coal, using gas, using fossil fuels, creating not just electricity but heat, gasoline for transportation, many of our agricultural practices - it all contributes to greenhouse gases. That's one connection. What are some other connections? Let's hear what you have to say.

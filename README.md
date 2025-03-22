@@ -1,4 +1,4 @@
-# **README: Decarbonization Course Modules**
+# **README: CALS301 Python Code for Figures**
 
 This README file accompanies the Python code provided for the course **"Decarbonizing Utilities and Industries"**. The code generates illustrative figures for various topics covered within the modules to visually reinforce key concepts relevant to carbon emission reductions.
 

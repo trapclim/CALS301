@@ -99,3 +99,25 @@ Finally, should you get a chance, you can google it - "Pale Blue Dot" image and 
 He makes the point that this is the only home we've ever known. This is the place, this little pixel, this little pale blue dot is the only place where anyone who's ever lived has lived. There's no person who has been able to survive anywhere outside the protective shield of our atmosphere and our climate. And that underscores the importance - going back to why we should teach about climate change - that underscores the importance of protecting this pale blue dot, or, as Carl Sagan puts it, a mote of dust suspended in a sunbeam.
 
 Thank you.
+
+# Lecture 2 - Goldilocks (Zone) and the Three Planets
+
+"All right. Welcome back to the second lecture in our Climate and Energy Night at the Museum, brought to you by PRI. I am Professor Toby Ault from Cornell University.
+
+Today we're going to be talking about the Goldilocks Zone - Earth being in the Goldilocks Zone. Last time we talked about the fact that there's liquid water on Earth, which means that there must be some kind of greenhouse effect. Well, as it turns out, that problem goes back a lot farther. It's a problem with a pedigree.
+
+## Defining the Goldilocks Zone
+
+First, let's define the Goldilocks Zone. It's an intuitive concept. The idea is that if you're too close to a star, in this case the sun, it's too hot. So Mercury and Venus are not habitable, or at least not habitable by life as we know it, because they're too close to the star. Mars might have been habitable at some point if it had more of a greenhouse effect - we'll look at why that is later - but it's too cold now. Earth is just right.
+
+That's an intuitive concept, except that things get complicated when you look at the history of our planet and the history of the sun, because what we know from astrophysics is that the sun has been getting brighter and hotter for the last 4.5 billion years. But if today's greenhouse effect were just as weak 4 billion years ago, then Earth's temperatures would have been too cold to support liquid oceans 3-4 billion years ago. And yet there's abundant evidence that there were liquid oceans. Earth's actual temperatures were much warmer than you'd predict from only knowing about today's greenhouse effect and knowing that the sun has been brightening, intensifying through time.
+
+This is often called the habitability problem or the faint young sun paradox. Before we can really dive into it, we're going to have to define some quantities here.
+
+## Understanding Energy Units
+
+We're going to have to start with our units of energy, which are called joules. We'll abbreviate that as J. What's a joule? Well, a joule is easy - it's just a Newton-meter. One Newton times one meter.
+
+A Newton, intuitively, is a measure of force, and we measure force, as you probably know, as mass times acceleration. Force equals mass times acceleration. So our units of a Newton are going to be kilograms per meter per second squared, or kilograms per meter per second per second.
+
+What does a Newton of force feel like? No, it's not a pound - that's a weight, and it's a different unit, also a different concept. A Newton of force is easy to remember because if you took a small apple, balanced it in your hand, extended your arm, the force of gravity acting on that apple is equal to one Newton, approximately. So the force that your hand has to exert against that apple is approximately one Newton. That's about one Newton - it's the force that on planet Earth your hand would have to exert against the mass, the apple, to keep it from falling to the surface.

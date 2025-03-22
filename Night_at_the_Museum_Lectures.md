@@ -1,4 +1,4 @@
-# The Pale Blue Dot
+# Lecture 1 - The Pale Blue Dot
 ## Why teach climate change
 "All right. Thank you, Rob, for that lovely introduction. I am Professor Toby Ault. I am a climate scientist at Cornell University, and this is exciting. This is the first of its kind - a Night at the Museum focused on climate and energy for teachers, students, educators, and I guess learners of all ages. And since we're streaming this and it's going on YouTube, people of the future.
 
@@ -71,3 +71,31 @@ We base our ideas about climate off of average weather conditions, but it's real
 ## The Connection Between Climate and Energy
 
 Now, we've already introduced some of the ideas that we need to answer this question, but let's think about what are the connections between climate and energy. Obviously, the way that we're making energy today is causing climate change. We're producing energy for electricity using coal, using gas, using fossil fuels, creating not just electricity but heat, gasoline for transportation, many of our agricultural practices - it all contributes to greenhouse gases. That's one connection. What are some other connections? Let's hear what you have to say.
+
+Oh, yes, Kelly. Good one. So Kelly said that energy feeds the climate system. Energy feeds the climate system. I think that's a really nice way of putting it, actually. Energy comes into the climate system, and that's what's available to do work. And that work could be the circulation of the oceans, circulation of the atmosphere, convection, all of it. Yeah, the winds, all of it. I like that. It's a good way of putting it. You did your reading - good job.
+
+## Understanding Radiant Energy
+
+A few slides back, we talked about common forms of energy. Let's spend a little bit of time on radiant energy. I want to expand on that because it's very relevant to the connections between climate and energy. But before we do, you need a couple of important facts about electromagnetic radiation, sometimes abbreviated as EMR.
+
+First fact: All ordinary matter continuously and spontaneously emits electromagnetic radiation. All ordinary matter continuously and spontaneously emits electromagnetic radiation. I had to put "ordinary" in there because I had a student once complain that dark matter doesn't do that. Okay, fair enough.
+
+Second fact: The kind, the flavor, the type of electromagnetic radiation emitted depends on the temperature of the object emitting it, all other things being equal. There are different ways to produce different types of electromagnetic radiation, but in an ideal case, with no special surface properties of the object, the kind of electromagnetic radiation emitted depends on the temperature of the object emitting it.
+
+And you're familiar with this concept. You're more familiar with this idea than you might think. For example, if I were to take a fork - and I actually did this for my son's third grade class - I were to take a fork and hold a blowtorch to it, eventually that fork would get hot enough to glow red. And that's because it's changing the kind of electromagnetic radiation that it's emitting from long wave infrared radiation which our eyes can't see to visible light when it's heated up several hundred degrees, and our eyes can see it. That's why it appears to glow red.
+
+## The Electromagnetic Spectrum
+
+Let's look at the whole spectrum. Let's think about the whole spectrum of electromagnetic radiation. So if you imagine the longest wavelengths that are emitted by the coolest objects in the universe, the coldest objects in the universe - so dead stars, for example - those are going to be radio waves, and they have length scales as large as buildings. As we move through the spectrum of electromagnetic radiation, we have microwaves, which are on the scale of a few centimeters. Infrared radiation, which is on the scale of the point of a needle. Visible wavelengths - they're about as long as the smallest living organisms, protozoans. Then we move into ultraviolet radiation, which is on the scale of molecules. That's one of the reasons why you should wear sunblock - ultraviolet radiation can damage your skin because it's damaging the molecules, bumping them out of place in your cells. Then we move further - X-rays are as small as atoms, and gamma rays that are as small as atomic nuclei.
+
+## Planetary Observations
+
+Looking back at our spaceship example - if you imagine this like a sandwich, this planet would look sort of like a spherical sandwich. On either side of it, on the top and the bottom, you have let's call it like a green, dark bluish-green layer. That's the bread, and that's where there's not very much - there's not as much long wave radiation escaping the planet. And then you've got three layers in the middle: you have one layer of deserts, the desert zones north and south of the equator, and then you've got right at the equator, the tropical zone with the convection.
+
+## Final Thoughts: The Pale Blue Dot
+
+Finally, should you get a chance, you can google it - "Pale Blue Dot" image and writing by Carl Sagan. He was able to convince the engineers of the Voyager spacecraft as it left the solar system to turn the camera back and point it at Earth and take one last picture. And what you see is there's this almost just a few, just a handful of pixels that are glowing more brightly than the rest of the backdrop. And that's Earth. And Carl Sagan reflects on this in a very poetic and beautiful way in the pale blue dot passages that you can find anywhere.
+
+He makes the point that this is the only home we've ever known. This is the place, this little pixel, this little pale blue dot is the only place where anyone who's ever lived has lived. There's no person who has been able to survive anywhere outside the protective shield of our atmosphere and our climate. And that underscores the importance - going back to why we should teach about climate change - that underscores the importance of protecting this pale blue dot, or, as Carl Sagan puts it, a mote of dust suspended in a sunbeam.
+
+Thank you.

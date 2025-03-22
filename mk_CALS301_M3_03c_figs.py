@@ -48,6 +48,35 @@ plt.pie(emissions, labels=labels, autopct='%1.1f%%', colors=colors, startangle=1
 plt.title("Global Transportation Emissions by Source (GTCO₂e)")
 plt.show()
 
+# Data for opportunities vs. challenges by transportation category (Bar Chart)
+categories = ["Road Vehicles", "Shipping", "Air", "Rail"]
+opportunities = [8, 5, 3, 7]  # Opportunities ratings (out of 10, hypothetical data for illustration)
+challenges = [4, 8, 9, 3]  # Challenges ratings (out of 10, hypothetical data for illustration)
+
+x = np.arange(len(categories))  # the label locations
+width = 0.35  # width of the bars
+
+fig, ax = plt.subplots(figsize=(10, 6))
+
+# Create Bars for Opportunities and Challenges
+rects1 = ax.bar(x - width/2, opportunities, width, label='Opportunities', color="#66b3ff")
+rects2 = ax.bar(x + width/2, challenges, width, label='Challenges', color="#ff9999")
+
+# Add Labels, Title, and Customize X/Y Axis
+ax.set_xlabel('Transportation Categories')
+ax.set_ylabel('Rating (Out of 10)')
+ax.set_title('Decarbonization Opportunities vs. Challenges by Transportation Category')
+ax.set_xticks(x)
+ax.set_xticklabels(categories)
+ax.legend()
+
+# Add Data Labels
+ax.bar_label(rects1, padding=3)
+ax.bar_label(rects2, padding=3)
+
+plt.tight_layout()
+plt.show()
+
 
 # Data Sources:
 # 1. Our World in Data - Greenhouse Gas Emissions from Transport: https://ourworldindata.org/co2-emissions-from-transport

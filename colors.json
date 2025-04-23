@@ -66,5 +66,73 @@
             "dark3": "#1E1E1E",
             "dark4": "#0E0E0E"
         }
+    },
+    "additional_colors": {
+        "hyperlink": {
+            "base": "#3A708B",
+            "light1": "#4E8AA8",
+            "light2": "#62A4C5",
+            "light3": "#76BEE2",
+            "light4": "#8AD8FF",
+            "dark1": "#2E5A6F",
+            "dark2": "#224453",
+            "dark3": "#162E37",
+            "dark4": "#0A171B"
+        },
+        "sky_blue": {
+            "base": "#92B2C4",
+            "light1": "#A8C5D4",
+            "light2": "#BED8E4",
+            "light3": "#D4EBF4",
+            "light4": "#EAFEFF",
+            "dark1": "#758F9D",
+            "dark2": "#586B76",
+            "dark3": "#3B474F",
+            "dark4": "#1E2428"
+        },
+        "sea_blue": {
+            "base": "#ACE1E5",
+            "light1": "#BFE9EC",
+            "light2": "#D2F1F3",
+            "light3": "#E5F9FA",
+            "light4": "#F8FFFF",
+            "dark1": "#8AB4B7",
+            "dark2": "#678789",
+            "dark3": "#445A5B",
+            "dark4": "#222D2D"
+        },
+        "seaweed": {
+            "base": "#52B7AB",
+            "light1": "#69CDC1",
+            "light2": "#80E3D7",
+            "light3": "#97F9ED",
+            "light4": "#AEFFFF",
+            "dark1": "#429289",
+            "dark2": "#316E67",
+            "dark3": "#214945",
+            "dark4": "#102523"
+        },
+        "money": {
+            "base": "#8DC440",
+            "light1": "#A3D456",
+            "light2": "#B9E46C",
+            "light3": "#CFF482",
+            "light4": "#E5FF98",
+            "dark1": "#719D33",
+            "dark2": "#557626",
+            "dark3": "#394F19",
+            "dark4": "#1C280C"
+        },
+        "gold": {
+            "base": "#FBB040",
+            "light1": "#FFC056",
+            "light2": "#FFD06C",
+            "light3": "#FFE082",
+            "light4": "#FFF098",
+            "dark1": "#C98D33",
+            "dark2": "#976A26",
+            "dark3": "#654719",
+            "dark4": "#32230C"
+        }
     }
 }

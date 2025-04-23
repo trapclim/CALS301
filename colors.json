@@ -1,0 +1,70 @@
+{
+    "cornell_colors": {
+        "carnelian": {
+            "base": "#B31B1B",
+            "light1": "#C93E3E",
+            "light2": "#D96262",
+            "light3": "#E88585",
+            "light4": "#F7A8A8",
+            "dark1": "#8F1515",
+            "dark2": "#6B1010",
+            "dark3": "#470B0B",
+            "dark4": "#240606"
+        },
+        "cornell_red": {
+            "base": "#A50C0C",
+            "light1": "#C61010",
+            "light2": "#E72222",
+            "light3": "#F45454",
+            "light4": "#FF8686",
+            "dark1": "#840A0A",
+            "dark2": "#630707",
+            "dark3": "#420505",
+            "dark4": "#210202"
+        },
+        "gray": {
+            "base": "#222222",
+            "light1": "#444444",
+            "light2": "#666666",
+            "light3": "#888888",
+            "light4": "#AAAAAA",
+            "dark1": "#1A1A1A",
+            "dark2": "#121212",
+            "dark3": "#0A0A0A",
+            "dark4": "#050505"
+        },
+        "white": {
+            "base": "#FFFFFF",
+            "off1": "#F7F7F7",
+            "off2": "#EFEFEF",
+            "off3": "#E7E7E7",
+            "off4": "#DFDFDF",
+            "warm1": "#FFF9F9",
+            "warm2": "#FFF4F4",
+            "warm3": "#FFEFEF",
+            "warm4": "#FFE9E9"
+        },
+        "secondary_red": {
+            "base": "#DF1E12",
+            "light1": "#F54237",
+            "light2": "#FF665D",
+            "light3": "#FF8A83",
+            "light4": "#FFADA9",
+            "dark1": "#B2180E",
+            "dark2": "#85120B",
+            "dark3": "#580C07",
+            "dark4": "#2B0604"
+        },
+        "accent_gray": {
+            "base": "#6E6E6E",
+            "light1": "#8E8E8E",
+            "light2": "#AEAEAE",
+            "light3": "#CECECE",
+            "light4": "#EEEEEE",
+            "dark1": "#4E4E4E",
+            "dark2": "#2E2E2E",
+            "dark3": "#1E1E1E",
+            "dark4": "#0E0E0E"
+        }
+    }
+}
